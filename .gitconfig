@@ -1,0 +1,17 @@
+[color]
+  ui = auto
+[alias]
+  st = status
+  br = branch
+  df = diff
+  cm = commit
+  co = checkout
+  rb = rebase
+  ff = fetch
+  ll = log --oneline --decorate
+
+[push]
+  default = simple
+[user]
+  name = <NAME>
+  email = <EMAIL>
